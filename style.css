@@ -22,7 +22,7 @@
 section{
     align-items: center;
     justify-content: center;
-    margin-left: 2rem;
+    margin-left: .5rem;
     color: rgb(2, 2, 66);
 }
 .sec-heading{
@@ -31,4 +31,8 @@ section{
 }
 .sec-content{
 line-height: 1.25rem;
+}
+.sec{
+    margin-left: 1.5rem;
+
 }
